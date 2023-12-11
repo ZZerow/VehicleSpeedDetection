@@ -8,13 +8,17 @@ This project is to detect speed of each vehicles in video. For that, we had 4 st
 ---------------
 
 1. Clone project
+    ```
     git clone https://github.com/ZZerow/VehicleSpeedDetection.git
     cd VehicleSpeedDetection
+    ```
 2. Upload file to Google drive and execute file with Google Colaboratory.
 3. Make new directory for test video
+    ```
     mkdir test
-    cd test 
-4. Upload test video under /content/test/  
+    cd test
+    ``` 
+5. Upload test video under /content/test/  
 
 ----------------
 Reference : 
